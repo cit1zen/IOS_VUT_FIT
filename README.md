@@ -2,7 +2,7 @@
 Projekty k IOS v letnom semestry 2015.
 
 ## Projekt 1
-Tento projekt má vždy niečo zo súbormi a jednoduchou štatistikou.
+Tento projekt má vždy niečo so súbormi a jednoduchou štatistikou.
 
 Úlohou je naučit ťa skriptovať v bash a regex.
 
